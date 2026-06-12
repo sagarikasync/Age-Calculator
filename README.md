@@ -28,17 +28,6 @@ Age-Calculator/
 
 > All HTML, CSS, and JavaScript code are written inside a single `index.html` file.
 
-## 🚀 How to Run
-
-1. Download or clone the repository.
-
-```bash
-git clone https://github.com/your-username/age-calculator.git
-```
-
-2. Open the `index.html` file in any modern web browser.
-
-3. Select your date of birth and click **Calculate Age**.
 
 ## ⚙️ How It Works
 
